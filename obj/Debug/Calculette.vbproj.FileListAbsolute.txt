@@ -1,0 +1,12 @@
+C:\Users\hpage\AppData\Local\Temporary Projects\Calculette\bin\Debug\Calculette.exe.config
+C:\Users\hpage\AppData\Local\Temporary Projects\Calculette\bin\Debug\Calculette.exe
+C:\Users\hpage\AppData\Local\Temporary Projects\Calculette\bin\Debug\Calculette.pdb
+C:\Users\hpage\AppData\Local\Temporary Projects\Calculette\bin\Debug\Calculette.xml
+C:\Users\hpage\AppData\Local\Temporary Projects\Calculette\obj\Debug\Calculette.vbprojAssemblyReference.cache
+C:\Users\hpage\AppData\Local\Temporary Projects\Calculette\obj\Debug\Calculette.Form1.resources
+C:\Users\hpage\AppData\Local\Temporary Projects\Calculette\obj\Debug\Calculette.Resources.resources
+C:\Users\hpage\AppData\Local\Temporary Projects\Calculette\obj\Debug\Calculette.vbproj.GenerateResource.cache
+C:\Users\hpage\AppData\Local\Temporary Projects\Calculette\obj\Debug\Calculette.vbproj.CoreCompileInputs.cache
+C:\Users\hpage\AppData\Local\Temporary Projects\Calculette\obj\Debug\Calculette.exe
+C:\Users\hpage\AppData\Local\Temporary Projects\Calculette\obj\Debug\Calculette.xml
+C:\Users\hpage\AppData\Local\Temporary Projects\Calculette\obj\Debug\Calculette.pdb
